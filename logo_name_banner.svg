@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.33886601"
-     inkscape:cx="-525.15108"
-     inkscape:cy="423.23456"
+     inkscape:zoom="1.2409339"
+     inkscape:cx="372.04724"
+     inkscape:cy="526.18109"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -54,20 +54,6 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <path
-       inkscape:connector-curvature="0"
-       id="path3833"
-       d="m 553.49636,421.48061 c -57.82471,0 -104.69069,46.88558 -104.69069,104.71029 0,27.30882 10.45768,52.1699 27.5812,70.80803 12.69037,-3.846 25.50662,-7.42336 35.94383,-10.14908 30.19168,-7.88471 81.87526,-21.21061 89.33946,-38.00509 -2.09926,5.83143 -9.10866,21.45639 -9.10866,21.45639 -9.56352,9.33028 -53.02802,19.67862 -81.64422,25.18622 -9.1292,1.75705 -19.54856,3.78743 -30.11347,6.02663 18.82992,18.17297 44.45282,29.36757 72.69255,29.36757 57.82471,0 104.71029,-46.86595 104.71029,-104.69067 0,-17.16671 -4.14155,-33.36663 -11.46434,-47.6634 -18.89362,3.04834 -78.49966,13.86788 -93.77595,17.3143 -16.85962,3.80359 -50.77329,10.71618 -57.53769,22.37903 4.19859,-10.72981 16.88243,-38.82958 16.88243,-38.82958 9.09703,-14.92839 49.36992,-25.60814 77.46284,-33.37223 6.55246,-1.81092 14.37899,-4.0337 22.6146,-6.41925 -16.77884,-11.43452 -37.05609,-18.11916 -58.89218,-18.11916 z"
-       style="fill:#b2001d;fill-opacity:1;stroke:none" />
-    <path
-       sodipodi:nodetypes="czcczcc"
-       inkscape:connector-curvature="0"
-       id="path3835"
-       d="m 495.06546,518.74832 c -1.88261,8.78539 26.60418,17.15354 52.03687,25.19994 25.43263,8.0464 36.04315,12.36156 42.28226,16.36523 10.11401,-4.83708 12.57586,-12.13076 12.57586,-12.13076 2.82387,-11.13857 -22.57647,-25.28809 -39.4839,-31.53374 -16.90736,-6.24565 -20.34459,-9.10699 -32.6083,-15.13428 -32.00443,8.47427 -34.80279,17.23361 -34.80279,17.23361 z"
-       style="fill:#590815;fill-opacity:1;stroke:none"
-       inkscape:export-filename="/Users/Betancourt/Documents/Research/Code/Visualizations/stan_logo/print/colors/red2.png"
-       inkscape:export-xdpi="90"
-       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-size:210.05752563px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#590815;fill-opacity:1;stroke:none;font-family:Corbel;-inkscape-font-specification:Corbel"
@@ -128,5 +114,22 @@
          x="172.36102"
          id="tspan3838"
          sodipodi:role="line">t</tspan></text>
+    <path
+       style="fill:#b2001d;fill-opacity:1;stroke:none"
+       d="m 553.4967,421.48018 c -57.8247,0 -104.6907,46.88558 -104.6907,104.71031 0,27.30882 10.45768,52.16991 27.5812,70.80805 12.69037,-3.84601 25.50663,-7.42336 35.94383,-10.14909 30.1917,-7.88471 81.87528,-21.21061 89.33949,-38.00509 -2.09928,5.83142 -9.10867,21.45638 -9.10867,21.45638 -9.56352,9.33029 -53.02803,19.67863 -81.64423,25.18623 -9.12919,1.75705 -19.54856,3.78743 -30.11346,6.02664 18.82991,18.17297 44.45281,29.36757 72.69254,29.36757 57.82471,0 104.7103,-46.86595 104.7103,-104.69069 0,-17.16672 -4.14155,-33.36664 -11.46434,-47.66341 -18.89363,3.04834 -78.49968,13.86788 -93.77596,17.3143 -16.85962,3.80359 -50.7733,10.71618 -57.53769,22.37904 4.19858,-10.72982 16.88243,-38.82959 16.88243,-38.82959 9.09704,-14.9284 49.36993,-25.60814 77.46284,-33.37224 6.55246,-1.81092 14.37898,-4.03369 22.6146,-6.41925 -16.77884,-11.43452 -37.05609,-18.11916 -58.89218,-18.11916 z"
+       id="path3042"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/Users/Betancourt/Documents/Research/Code/Visualizations/stan_logo/print/final/logo.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
+    <path
+       inkscape:export-ydpi="90"
+       inkscape:export-xdpi="90"
+       inkscape:export-filename="/Users/Betancourt/Documents/Research/Code/Visualizations/stan_logo/print/final/logo.png"
+       style="fill:#590815;fill-opacity:1;stroke:none"
+       d="m 495.34556,518.60802 c -1.8826,8.78539 26.32442,17.29343 51.75712,25.33983 25.43262,8.04641 36.14104,12.3942 42.38015,16.39787 10.11401,-4.83709 12.4318,-12.0711 12.4318,-12.0711 2.82388,-11.13857 -22.53031,-25.38039 -39.43775,-31.62604 -16.90735,-6.24566 -20.67129,-9.21238 -32.935,-15.23967 -32.28419,8.54422 -34.19632,17.19911 -34.19632,17.19911 z"
+       id="path3044"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="czcczcc" />
   </g>
 </svg>
