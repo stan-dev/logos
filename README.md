@@ -2,5 +2,4 @@
 
 Repository for Stan-related logos.
 
-Logos are licensed under a Creative Commons Attribution-NoDerivatives 
-4.0 International Public License.
+The Stan name and logo are trademarks of NumFOCUS under the direction of the Stan Leadership Body.
